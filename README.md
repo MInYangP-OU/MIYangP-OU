@@ -16,8 +16,6 @@ Chef Cook Love And Peace！ NO Pain No Gain❥(^_-) Strive for excellence, and s
   <img alt="jupyter lab" src="https://img.shields.io/badge/-Jupyter lab-db7092?style=flat-square&logo=jupyter lab&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Pycharm" src="https://img.shields.io/badge/-Pycharm-F05032?style=flat-square&logo=Pycharm&logoColor=white" />
-</p>
-</p>
   <img alt="AIOps" src="https://img.shields.io/badge/-AIOps-ea2845?style=flat-square&logo=AIOps&logoColor=white" />
    <img alt="Model Explainable&Observable" src="https://img.shields.io/badge/-Model Explainable&Observable-ea2?style=flat-square&logo=Model Explainable&Observable&logoColor=white" />
   <img alt="Time series" src="https://img.shields.io/badge/-Time series-13aa?style=flat-square&logo=Time series&logoColor=white" />
@@ -25,13 +23,9 @@ Chef Cook Love And Peace！ NO Pain No Gain❥(^_-) Strive for excellence, and s
   <img alt="Anomaly detection" src="https://img.shields.io/badge/-Anomaly detection-DD0031?style=flat-square&logo=Anomaly detection&logoColor=white" />
   <img alt="Root Cause" src="https://img.shields.io/badge/-Root Cause-CB3837?style=flat-square&logo=Root Cause&logoColor=white" />
   <img alt="Event Correlation" src="https://img.shields.io/badge/-Event Correlation-E34F26?style=flat-square&logo=Event Correlation&logoColor=white" />
-
-</p>
   <img alt="Quantitative Analysis" src="https://img.shields.io/badge/-Quantitative Analysis-2088FF?style=flat-square&logo=Quantitative analysis&logoColor=white" />
   <img alt="Recommend Systems" src="https://img.shields.io/badge/-Recommend Systems-43853d?style=flat-square&logo=Recommend Systems&logoColor=white" />
   <img alt="Causality" src="https://img.shields.io/badge/-Causality-CB3837?style=flat-square&logo=Causality&logoColor=white" />
-
-</p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=Python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-2088AE?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Scala" src="https://img.shields.io/badge/-Scala-F7B93E?style=flat-square&logo=Scala&logoColor=white" />
